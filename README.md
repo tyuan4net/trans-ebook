@@ -29,3 +29,7 @@
 > 💡 **提示**：若使用 Kindle，可下載 `.epub` 檔透過 [Amazon Send to Kindle](https://www.amazon.com/sendtokindle) 網頁直接傳送至裝置閱讀。
 
 --- Tein Horng Yuan 2026-10-27
+
+![封面](assets/BookCover.PNG) 
+![目錄](assets/TOC.PNG)
+![頁面範例](assets/example01.PNG)
