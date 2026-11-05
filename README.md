@@ -1,9 +1,12 @@
 # trans-ebook
 
-授權條款
-本專案的所有內容（包含 EPUB、PDF 與相關說明文件）採用 創用 CC 姓名標示 4.0 國際授權條款 進行授權。只要保留作者署名（Tein Horng Yuan），任何人皆可自由下載、散布、重製或改作本內容。
-
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Latest Release](https://img.shields.io/github/v/release/tyuan4net/trans-ebook?color=blue)](https://github.com/tyuan4net/trans-ebook/releases/latest)
+[![Format](https://img.shields.io/badge/Format-EPUB_%7C_PDF-orange)](https://github.com/tyuan4net/trans-ebook/releases/latest)
+[![Blog](https://img.shields.io/badge/Blog-Blogger-ff69b4?logo=blogger)](https://tyuan.blogspot.com/2024/03/blog-post_16.html)
+---
 《別只聽別人說：跨性別網路資料導覽》簡介
+
 
 大約在 2008～2010 年時，我根據自己的人生感受推算，這世界普遍來說應該要有「心理認同、生理、性傾向」三種維度、共八種類型的身心性模型；而在這之前，我一直以為一個人只有生理及性傾向兩種維度的四種模式。當我推導出可能有「心理認同」層面時，我還是不時懷疑：真的有這樣的人嗎？（當然，今天的我們知道有更多混搭不同狀態的種類。）
 
