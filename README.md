@@ -24,10 +24,10 @@
 
 ## 📥 最新版本下載 (Latest Release)
 
-目前最新版本為 **v1.1**，請至 **[GitHub Releases 頁面](https://github.com/tyuan4net/trans-ebook/releases/latest)** 下載最新檔案：
+目前最新版本為 **v1.1.1**，請至 **[GitHub Releases 頁面](https://github.com/tyuan4net/trans-ebook/releases/latest)** 下載最新檔案：
 
-* 📖 **EPUB 格式**（適合手機、iPad Apple Books、Kobo、Kindle）：[`trans-ebook-v1.1.epub`](https://github.com/tyuan4net/trans-ebook/releases/latest/download/trans-ebook-v1.1.epub)
-* 📄 **PDF 格式**（適合大螢幕排版閱讀）：[`trans-ebook-v1.1.pdf`](https://github.com/tyuan4net/trans-ebook/releases/latest/download/trans-ebook-v1.1.pdf)
+* 📖 **EPUB 格式**（適合手機、iPad Apple Books、Kobo、Kindle）：[`trans-ebook-v1.1.1.epub`](https://github.com/tyuan4net/trans-ebook/releases/latest/download/trans-ebook-v1.1.1.epub)
+* 📄 **PDF 格式**（適合大螢幕排版閱讀）：[`trans-ebook-v1.1.1.pdf`](https://github.com/tyuan4net/trans-ebook/releases/latest/download/trans-ebook-v1.1.1.pdf)
 
 > 💡 **提示**：若使用 Kindle，可下載 `.epub` 檔透過 [Amazon Send to Kindle](https://www.amazon.com/sendtokindle) 網頁直接傳送至裝置閱讀。
 
