@@ -33,6 +33,10 @@
 
 --- Tein Horng Yuan 2026-10-27
 
-![封面](assets/BookCover.PNG) 
-![目錄](assets/TOC.PNG)
-![頁面範例](assets/example01.PNG)
+<table>
+  <tr>
+    <td><img src="assets/BookCover.PNG"></td>
+    <td><img src="assets/TOC.PNG"></td>
+    <td><img src="assets/example01.PNG"></td>
+  </tr>
+</table>
